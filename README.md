@@ -6,61 +6,33 @@
 <h1 align="center">Hey 👋 I'm Jackson</h1>
 
 <p align="center">
-  🎮 Indie Game Developer • ⚡ Hardware Tinkerer • 🖥️ Unity Programmer
+  🖥️ Unity Programmer
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎮 Building games in Unity
-- 🌲 Currently developing **AxeMan**
-- 🌐 Experimenting with multiplayer systems using Photon
-- ⚡ Making ESP32 + display projects
-- ⌨️ Improving typing speed daily
-- 🛠️ Always working on something random and fun
+Building games in Unity
+Currently developing **Clock-IN**
+🌐 Experimenting with multiplayer systems using Photon
+Making ESP32 projects
 
 ---
 
-## 🧰 Tech Stack
+What I use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,arduino,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,arduino,git,github,vscode,linux" />
 </p>
 
----
-
-## 🎯 Current Projects
-
-| Project | Description |
-|---|---|
-| 🪓 AxeMan | Swing through trees and destroy cicadas |
-| 🎨 Multiplayer Paintball Game | Photon-powered multiplayer shooter |
-| 📟 ESP32 Projects | Displays, SD cards, WiFi, and experiments |
 
 ---
 
-## 📊 GitHub Stats
+##GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JacksonKrizan&show_icons=true&theme=tokyonight&hide_border=true"/>
   
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JacksonKrizan&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 🕹️ Featured Repo Images
-
-<p align="center">
-  <img width="45%" src="./images/axeman.png"/>
-  <img width="45%" src="./images/project-preview.png"/>
-</p>
-
-> Put your screenshots/images inside an `images` folder in the repo.
-
-Example:
-```txt
-/images
-  axeman.png
-  project-preview.png
