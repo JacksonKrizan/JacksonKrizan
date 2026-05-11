@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Jackson%20Krizan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%7C%20Unity%20%7C%20ESP32%20Projects&descAlignY=55"/>
 </p>
 
-<h1 align="center">Hey 👋 I'm Jackson</h1>
-
 <p align="center">
   🖥️ Unity Programmer
 </p>
@@ -23,7 +21,7 @@ Making ESP32 projects
 What I use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,arduino,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,arduino,git,github,vscode,linux,html" />
 </p>
 
 
