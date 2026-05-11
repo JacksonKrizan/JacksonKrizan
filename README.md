@@ -10,10 +10,10 @@
 ---
 ## What am I doing as of right now
 
---Building games in Unity
---Currently developing **Clock-IN**
---🌐 Experimenting with multiplayer systems using Photon and NetCode for Gameobjects inside of Unity
---Making ESP32 projects
+- Building games in Unity
+- Currently developing **Clock-IN**
+- 🌐 Experimenting with multiplayer systems using Photon and NetCode for Gameobjects inside of Unity
+- Making ESP32 projects
 
 
 ---
