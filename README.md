@@ -4,12 +4,11 @@
 </p>
 
 <p align="center">
-  🖥️ Unity Programmer
+  Unity Programmer
 </p>
 
 ---
-
-## 🚀 About Me
+## What am I doing as of right now
 
 Building games in Unity
 Currently developing **Clock-IN**
@@ -18,7 +17,7 @@ Making ESP32 projects
 
 ---
 
-What I use
+##What I use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,cs,arduino,git,github,vscode,linux,html" />
