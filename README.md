@@ -29,7 +29,5 @@ Making ESP32 projects
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JacksonKrizan&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JacksonKrizan&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=JacksonKrizan&theme=dark&hide_border=true"/>
 </p>
