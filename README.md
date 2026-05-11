@@ -17,7 +17,7 @@ Making ESP32 projects
 
 ---
 
-##What I use
+## What I use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,cs,arduino,git,github,vscode,linux,html" />
@@ -26,7 +26,7 @@ Making ESP32 projects
 
 ---
 
-##GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JacksonKrizan&show_icons=true&theme=tokyonight&hide_border=true"/>
