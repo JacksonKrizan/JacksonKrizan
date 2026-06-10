@@ -22,7 +22,7 @@
 ## What I use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,arduino,git,github,vscode,linux,html" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,arduino,git,github,vscode,linux,html,wsl" />
 </p>
 
 
