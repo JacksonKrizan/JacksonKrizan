@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Jackson%20Krizan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%7C%20Unity%20%7C%20ESP32%20Projects&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Jackson%20Krizan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%7C%20Unity&descAlignY=55"/>
 </p>
 
 <p align="center">
