@@ -12,7 +12,7 @@
 
 - Building games in Unity
 - Currently developing **Clock-IN**
-- 🌐 Experimenting with multiplayer systems using Photon and NetCode for Gameobjects inside of Unity
+- Experimenting with multiplayer systems using Photon and NetCode for Gameobjects inside of Unity
 - Making ESP32 projects
 - Doing GameJams with fellow students.
 
