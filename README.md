@@ -25,13 +25,6 @@
   <img src="https://skillicons.dev/icons?i=unity,cs,arduino,git,github,vscode,linux,html" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,arduino,git,github,vscode,linux,windows,html" />
-</p>
-
-<p align="center">
-  <img src="./icons/maya.svg" width="48" height="48" />
-</p>
 ---
 
 ## GitHub Stats
